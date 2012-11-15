@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author christian
+ * @author Christian Smith
  */
 public class Coref {
         protected ArrayList<Integer> sentenceIndices = new ArrayList();
