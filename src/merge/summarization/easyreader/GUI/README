@@ -1,6 +1,0 @@
-
-ReadabilityToolkit
-
-Uses GranskaTagger, which is an .exe, which requires wine (not expecting Windows at this stage). 
-
-GranskaWriter.java can be modified to suit Windows (just delete "wine" from the command line-string under GranskaWriter.write() ). I think.
