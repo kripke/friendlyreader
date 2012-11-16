@@ -10,7 +10,7 @@ public class Main {
 	public static void main(String args[]) {
 		System.out.println("Starting main!");
 		String example = 
-				"Naturvetenskap och humaniora.\n" + 
+				"Naturvetenskap och humaniora!\n" + 
 				"Något som alltid lyfts fram är neandertalmänniskans " +
 				"eventuella förmåga till kultur, kulturell ackumulation " +
 				"och kulturell transmission. Det intressanta här är om det" +
