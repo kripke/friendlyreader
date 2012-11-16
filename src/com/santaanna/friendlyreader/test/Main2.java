@@ -78,6 +78,9 @@ public class Main {
 		//System.out.println(facade.parseString(engText));
 	}
 
-	
-	
-}
+
+	private static void goNuts(){
+		System.out.println("Hej");
+
+
+}}
