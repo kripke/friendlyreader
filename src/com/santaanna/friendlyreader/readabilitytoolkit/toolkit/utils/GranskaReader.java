@@ -1,6 +1,6 @@
 
 
-package toolkit.utils;
+package com.santaanna.friendlyreader.readabilitytoolkit.toolkit.utils;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

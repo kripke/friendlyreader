@@ -1,12 +1,13 @@
 
-package toolkit.utils;
+package com.santaanna.friendlyreader.readabilitytoolkit.toolkit.utils;
 
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish.LIX;
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish.NR;
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish.OVIX;
 import java.io.UnsupportedEncodingException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import toolkit.measures.swedish.LIX;
-import toolkit.measures.swedish.NR;
-import toolkit.measures.swedish.OVIX;
+import toolkit.utils.GranskaWriter;
 
 /**
  * Complete wrapper for various readability indices. LIX, NR, OVIX plus some other

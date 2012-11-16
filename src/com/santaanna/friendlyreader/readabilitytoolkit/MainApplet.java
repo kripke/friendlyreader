@@ -5,7 +5,7 @@
 
 import java.applet.Applet;
 import javax.swing.JApplet;
-import toolkit.utils.ReadabilityTool;
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.utils.ReadabilityTool;
 
 /**
  *

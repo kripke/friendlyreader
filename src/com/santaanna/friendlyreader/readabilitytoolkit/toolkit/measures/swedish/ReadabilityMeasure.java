@@ -1,5 +1,5 @@
 
-package toolkit.measures.swedish;
+package com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish;
 
 /**
  * Abstract class for readability measures.

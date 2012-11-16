@@ -1,8 +1,8 @@
 
-package toolkit.measures.swedish;
+package com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish;
 
+import com.santaanna.friendlyreader.summarization.util.DocumentUtils;
 import java.util.HashMap;
-import toolkit.utils.DocumentUtils;
 
 /**
  *

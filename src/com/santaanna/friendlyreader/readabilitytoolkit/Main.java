@@ -1,6 +1,7 @@
+package com.santaanna.friendlyreader.readabilitytoolkit;
 
-import toolkit.utils.DocumentUtils;
-import toolkit.utils.ReadabilityTool;
+
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.utils.ReadabilityTool;
 
 /**
  *

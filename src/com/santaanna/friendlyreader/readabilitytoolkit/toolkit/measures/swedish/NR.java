@@ -1,11 +1,11 @@
 
-package toolkit.measures.swedish;
+package com.santaanna.friendlyreader.readabilitytoolkit.toolkit.measures.swedish;
 
+import com.santaanna.friendlyreader.readabilitytoolkit.toolkit.utils.GranskaReader;
+import com.santaanna.friendlyreader.summarization.util.DocumentUtils;
 import java.io.UnsupportedEncodingException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import toolkit.utils.DocumentUtils;
-import toolkit.utils.GranskaReader;
 import toolkit.utils.GranskaWriter;
 
 /**
