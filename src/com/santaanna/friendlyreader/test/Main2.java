@@ -44,7 +44,7 @@ public class Main {
 //		String semikolonOchBindestreck = "Semikolon används mellan satser - normalt huvudsatser, " +
 //				"dvs. kompletta meningar - som har ett nära innehållsligt samband till varandra; " +
 //				"det har då liknande funktion som tankstreck (som snarare markerar paus).";
-		
+
 		System.out.println("Creating API.");
 		Properties props = new Properties();
 		props.put("usePOStags", "false");
@@ -78,6 +78,12 @@ public class Main {
 		//System.out.println(facade.parseString(engText));
 	}
 
+	private static void goNuts(){
+		System.out.println("Hej");
+	}
 	
+	public void kickSomeGitAss(){
+		this.method.crazyTown(); 
+	}
 	
 }
