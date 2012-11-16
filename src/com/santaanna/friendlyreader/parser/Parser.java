@@ -1,8 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package parser;
+
+package com.santaanna.friendlyreader.parser;
 
 import edu.stanford.nlp.io.NumberRangeFileFilter;
 import edu.stanford.nlp.ling.HasWord;
