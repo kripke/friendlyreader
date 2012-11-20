@@ -1,0 +1,19 @@
+﻿(ROOT
+	(NP
+		(DET En)
+		(N bil)
+		(VP
+			(VB åkte)
+			(AD fort)))
+	(PUNKT .))	
+
+(ROOT
+	(NP
+		(DET En)
+		(ADJ gul)
+		(N bil)
+		(VP
+			(VB åkte)
+			(PP på)
+			(N gatan)))
+	(PUNKT .))	

@@ -1,0 +1,8 @@
+﻿(ROOT
+  (X (NNDDSS Färre)
+    (NAC
+      (X
+        (NP
+		  (JJ persondatorer)
+		  (VN sålda))
+        (IK .)))))
