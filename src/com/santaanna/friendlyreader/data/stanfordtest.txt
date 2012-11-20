@@ -1,0 +1,110 @@
+﻿(ROOT
+  (X (NNDDSS Färre)
+    (NAC
+      (X
+        (NP (JJ persondatorer) (VN sålda))
+        (IK .)))))
+
+(ROOT
+  (S
+    (NP (NNDDSS Försäljningen)
+      (PP (PR av) (NNDDSS persondatorer)))
+    (VVPT minskade)
+    (PP (PR under)
+      (NP (NNDDGG årets) (WPSU första) (NN kvartal)
+        (PP (PR jämfört)
+          (PP (PR med) (SPSM motsvarande) (NN period)
+            (PP (PR i)
+              (CONJP (NNDDSS fjol) (IKELKR ,)
+                (NAC (VVPS visar)))))
+          (NP (NN siffror)
+            (PP (PR från) (JJ analysföretaget) (NNSS IT)))
+          (VVPS Research)))
+      (IK .))))
+
+(ROOT
+  (S
+    (NP (JJ Totalt) (VN såldes))
+    (VVPS 282)
+    (ADJP (JJ 625) (TPPA datorer))
+    (PP (PR i) (PN Sverige))
+    (PP (PR under)
+      (CONJP (NNDDSS perioden) (IKELKR ,)
+        (NAC
+          (NP (EN en) (NN minskning)
+            (PP (PR med) (RO 15) (NN procent)))))
+      (IK .))))
+
+(ROOT
+  (S
+    (NP (JJ Fjolårets) (VN försäljning))
+    (VVPS gynnades)
+    (ADVP (ADVMN dock) (ID av))
+    (NP (EN en)
+      (ADJP (ADVZA mycket) (JJ stark))
+      (VN ökning))
+    (PP
+      (PP (PR inom) (NNDDSS hem-pc))
+      (IK .))))
+
+(ROOT
+  (X
+    (NP
+      (ROOT
+        (S
+          (NAC (ADVDA Nu)))
+        (S
+          (S (VVPT minskade)
+            (NP (NNDD antalet) (NNSS hem-pc-paket))
+            (S
+              (ADVP (ADVZA med))
+              (NAC (JJ 55))))
+          (VVPS procent)
+          (PP (PR till) (JJ 53) (VN 180))))
+      (NNDD .))))
+
+(ROOT
+  (S
+    (NP (JJ IT) (JJ Research) (NN spår)
+      (S (UKAT att)
+        (NP (WPKP andra) (JJ kvartalets) (VN datorförsäljning))))
+    (VVPS kommer)
+    (VP (IM att) (VVIVSM innebära)
+      (NP (EN en) (VN minskning)
+        (PP (PR med)
+          (NP (RO 10)
+            (NP (NNDD procent)
+              (X (TPPA jämfört)
+                (PP (PR med) (WPKP motsvarande) (NN period)))))
+          (NNSS 2002) (IK .))))))
+
+(ROOT
+  (S (WPOP Det) (VVPS betyder)
+    (S (UKAT att)
+      (NP
+        (ADJP (JJ 240) (JJ 000))
+        (NNSS datorer))
+      (KVPS kommer) (IM att) (VVIV säljas) (NNDD .))))
+
+(ROOT
+  (S
+    (S
+      (X (VVPS Nedgången) (GVPS kan))
+      (NP
+        (NP
+          (ROOT
+            (NAC (ADVMN dock))
+            (S
+              (NP (ADVZA bli) (JJKP större))
+              (X (ADVZA om)
+                (NP (EN en) (NN del)))
+              (ADJP (JJKP större) (TPPA personalköpsaffärer))))
+          (NNDD senareläggs))
+        (IK ,))
+      (VVPS skriver))
+    (VVPS David)
+    (NP (NNDDSS Larsson)
+      (PP (PR vid) (NNSS IT)
+        (X (TPPA Research)
+          (PP (PR i) (EN en) (NN kommentar)))))
+    (IK .)))

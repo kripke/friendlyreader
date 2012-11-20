@@ -1,0 +1,16 @@
+﻿(ROOT
+  (S
+    (NP (NNDDSS Försäljningen)
+      (PP (PR av) (NNDDSS persondatorer)))
+    (VVPT minskade)
+    (PP (PR under)
+      (NP (NNDDGG årets) (WPSU första) (NN kvartal)
+        (PP (PR jämfört)
+          (PP (PR med) (SPSM motsvarande) (NN period)
+            (PP (PR i)
+              (CONJP (NNDDSS fjol) (IKELKR ,)
+                (NAC (VVPS visar)))))
+          (NP (NN siffror)
+            (PP (PR från) (JJ analysföretaget) (NNSS IT)))
+          (VVPS Research)))
+      (IK .))))
